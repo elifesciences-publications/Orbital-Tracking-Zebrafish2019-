@@ -1,0 +1,53 @@
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Main.m,330 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\sloc.m,41 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\slocDir.m,68 
+D:\Programming\Matlab\Zebrafish Misgeld GUI,439 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Analysis Functions\Calculate_Passive_Stepsize_Trajectory_Data.m,22 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Analysis Functions\Calculate_Population_Stepsize_and_Trajectory_Data.m,22 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Analysis Functions\Determine_displacements.m,43 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Analysis Functions\Fill_Population_Status_Array.m,75 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Analysis Functions\Identify_active_states.m,110 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Analysis Functions\One_component_Normal_Distribution_MlE.m,16 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Analysis Functions\Read_In_Tracking_Data.m,48 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Analysis Functions\Split_Data_Directionwise.m,56 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Analysis Functions\Split_Data_To_Velocities.m,97 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Analysis Functions\Two_component_Normal_Distribution_MlE.m,25 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Menu_Functions\Load .m File\Load_m_File.m,21 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Menu_Functions\Load Trajectory File\Load_Trajectory_File.m,16 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Menu_Functions\Save Current .m File\Save_m_File.m,8 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Movie Functions\Find_Laserbeam_Position.m,26 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Movie Functions\Plot_Video_Frame.m,8 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Movie Functions\Read_Tifstack.m,16 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Movie Functions\Render_Image.m,186 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Movie Functions\Render_Video.m,21 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Movie Functions\smooth2a.m,14 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Progress_Functions\Progress_Default_Data.m,3 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Progress_Functions\Update_Progress.m,11 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Repetitive\Repetive_Plot.m,26 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Repetitive Test\Calculate_Transformation_Matrix.m,15 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Repetitive Test\Find_Laserbeam_Position.m,24 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Repetitive Test\Main.m,133 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Repetitive Test\Main_Traveltime_Binning.m,73 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Repetitive Test\Read_In_Tracking_Data.m,48 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Repetitive Test\Read_Tifstack.m,16 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Repetitive Test\smooth2a.m,14 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab_Selection.m,13 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 1 - Trajectory\Trajectory_Table_Default_Data.m,5 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 1 - Trajectory\Update_Tab1.m,35 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 2 - Identify Active States\Start_Correlation.m,13 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 2 - Identify Active States\Update_Tab2.m,53 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 3 - Population Identification\Start_MLE_Fit.m,56 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 3 - Population Identification\Transition_Histogram.m,13 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 3 - Population Identification\Update_Tab3.m,365 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 4 - Summarize Trajectory Data\Save_Summary.m,8 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 4 - Summarize Trajectory Data\Select_Folder.m,42 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 4 - Summarize Trajectory Data\Summarize_Data.m,185 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 4 - Summarize Trajectory Data\Summary_Histogram.m,13 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 4 - Summarize Trajectory Data\Trajectory_Selection.m,26 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 4 - Summarize Trajectory Data\Update_Tab4.m,519 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 5 - Plot Tracking Position in Video\Create_Transfermatrix.m,102 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 5 - Plot Tracking Position in Video\Start_Colocalization.m,197 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 5 - Plot Tracking Position in Video\Update_Tab5.m,374 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 5 - Plot Tracking Position in Video\Video_Controls.m,71 
+D:\Programming\Matlab\Zebrafish Misgeld GUI\Tab Functions\Tab 5 - Plot Tracking Position in Video\Video_Settings_Controls.m,38 
+D:\Programming\Matlab\Zebrafish Misgeld GUI,3760 
