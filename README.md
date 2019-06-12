@@ -1,3 +1,5 @@
+### This code is associated with the paper from Wehnekamp et al., "Nanoresolution real-time 3D orbital tracking for studying mitochondrial trafficking in vertebrate axons in vivo". eLife, 2019. http://dx.doi.org/10.7554/eLife.46059
+
 # Zebrafish-Paper
 This Matlab script including functions is not programmed to be published software. It is supposed to help the reader analyzing the data. Hence, we do not guarantee execution without crashes nor do we take any responsibilities for any damages on your hardware.
 
